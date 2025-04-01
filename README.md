@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milos Mirkovic
 - 👀 I'm interested in learning new things and trying to improve all the time
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working on some projects...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: milos.mirkovic7@gmail.com
 
