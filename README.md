@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Milos Mirkovic
-- 👀 I'm interested in learning new things and trying to improve all the time
-- 🌱 I’m currently working on some projects...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: milos.mirkovic7@gmail.com
+ 👋 Hi, I’m @Milos Mirkovic
+  Web developer and data analyst passionate about technology, data, and solving real-world problems. Skilled in React, Node.js, Python, SQL, and Power BI.
+ 📫 How to reach me: milos.mirkovic7@gmail.com
 
-<!---
-Milos191405/Milos191405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
