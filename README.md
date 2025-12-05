@@ -57,7 +57,9 @@ Freelance collaboration & project work
 📬 Let's Connect
 
 Feel free to reach out:
+
 Email: milos.mirkovic7@gmail.com
 
-[LinkedIn]: (www.linkedin.com/in/milosmirkovic7)
-GitHub: [Your GitHub URL]
+[LinkedIn](https://www.linkedin.com/in/milosmirkovic7)
+
+
