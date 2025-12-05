@@ -58,7 +58,7 @@ Freelance collaboration & project work
 
 Feel free to reach out:
 
-Email: milos.mirkovic7@gmail.com
+[Email](milos.mirkovic7@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/milosmirkovic7)
 
